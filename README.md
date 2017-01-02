@@ -9,5 +9,5 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 
 1. Download files from Maa-amet
 2. `unzip '*.zip'`
-3. `mapshaper *.shp -o -proj wgs84 format=geojson`
+3. `mapshaper *.shp -proj wgs84 -o format=geojson`
 
