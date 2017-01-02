@@ -4,3 +4,10 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 
 - [Eesti haldus- ja asustusjaotus](http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html)
 - [Estonian Administrative and Settlement Division](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html)
+
+## Workflow
+
+1. Download files from Maa-amet
+2. `unzip '*.zip'`
+3. `mapshaper *.shp -o format=geojson`
+
