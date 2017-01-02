@@ -8,6 +8,7 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 2. `unzip '*.zip'`
 3. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/ format=geojson`
 4. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/ format=topojson`
-4. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/estonia.json`
+5. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/estonia.json`
+6. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/topojson/ format=topojson`
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
