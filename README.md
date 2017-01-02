@@ -7,4 +7,5 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 1. Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html)
 2. `unzip '*.zip'`
 3. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/ format=geojson`
+4. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/ format=topojson`
 4. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/estonia.json`
