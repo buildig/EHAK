@@ -2,6 +2,8 @@
 
 Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geojson.org/) ja [TopoJSON](https://github.com/topojson/topojson) formaadis / Spatial data for Estonian Administrative and Settlement Classification in [GeoJSON](http://geojson.org/) and [TopoJSON](https://github.com/topojson/topojson) format.
 
+## omavalitsus.json
+
 <script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/omavalitsus.json"></script>
 
 ## Workflow
