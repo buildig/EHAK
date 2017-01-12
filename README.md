@@ -4,9 +4,21 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 
 Source: [https://github.com/buildig/EHAK](https://github.com/buildig/EHAK)
 
+## asustusyksus.json
+
+<script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/asustusyksus.json"></script>
+
 ## omavalitsus.json
 
-<script src="https://embed.github.com/view/geojson/buildig/EHAK/master/geojson/omavalitsus.json"></script>
+<script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/omavalitsus.json"></script>
+
+## maakond.json
+
+<script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/maakond.json"></script>
+
+## estonia.json
+
+<script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/estonia.json"></script>
 
 ## Workflow
 
