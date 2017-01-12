@@ -2,8 +2,6 @@
 
 Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geojson.org/) ja [TopoJSON](https://github.com/topojson/topojson) formaadis / Spatial data for Estonian Administrative and Settlement Classification in [GeoJSON](http://geojson.org/) and [TopoJSON](https://github.com/topojson/topojson) format.
 
-Source: [https://github.com/buildig/EHAK](https://github.com/buildig/EHAK)
-
 ## [asustusyksus.json](https://github.com/buildig/EHAK/blob/master/topojson/asustusyksus.json)
 
 <script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/asustusyksus.json"></script>
@@ -30,3 +28,5 @@ Source: [https://github.com/buildig/EHAK](https://github.com/buildig/EHAK)
 6. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/topojson/estonia.json format=topojson`
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
+
+Source: [https://github.com/buildig/EHAK](https://github.com/buildig/EHAK)
