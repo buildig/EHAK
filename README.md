@@ -20,12 +20,18 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed [GeoJSON](http://geo
 
 ## Workflow
 
-1. Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html)
-2. `unzip '*.zip'`
-3. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/geojson/ format=geojson`
-4. `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/topojson/ format=topojson`
-5. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/geojson/estonia.json`
-6. `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/topojson/estonia.json format=topojson`
+- Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html) and extract:
+```
+curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/maakond_shp.zip" && 
+curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/omavalitsus_shp.zip" && 
+curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/asustusyksus_shp.zip" && 
+unzip '*.zip'
+```
+
+- `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/geojson/ format=geojson`
+- `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o EHAK/topojson/ format=topojson`
+- `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/geojson/estonia.json`
+- `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o EHAK/topojson/estonia.json format=topojson`
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
 
