@@ -98,7 +98,6 @@ Juuru vald,0240,Rapla maakond,0070
 Rapla vald,0669,Rapla maakond,0070
 Kehtna vald,0292,Rapla maakond,0070
 Pala vald,0576,Jõgeva maakond,0049
-Tartu vald,0794,Tartu maakond,0078
 Mäetaguse vald,0498,Ida-Viru maakond,0044
 Kohtla-Järve linn,0322,Ida-Viru maakond,0044
 Otepää vald,0636,Valga maakond,0082
@@ -172,11 +171,9 @@ Rägavere vald,0702,Lääne-Viru maakond,0059
 Sõmeru vald,0770,Lääne-Viru maakond,0059
 Tõlliste vald,0820,Valga maakond,0082
 Taheva vald,0779,Valga maakond,0082
-Vara vald,0861,Tartu maakond,0078
 Mäksa vald,0501,Tartu maakond,0078
 Kihelkonna vald,0301,Saare maakond,0074
 Lääne-Saare vald,0433,Saare maakond,0074
-Tabivere vald,0773,Jõgeva maakond,0049
 Vastseliina vald,0874,Võru maakond,0086
 Meremäe vald,0460,Võru maakond,0086
 Võru linn,0919,Võru maakond,0086
@@ -194,6 +191,9 @@ Veriora vald,0879,Põlva maakond,0065
 Narva linn,0511,Ida-Viru maakond,0044
 Rõngu vald,0694,Tartu maakond,0078
 Palupera vald,0582,Valga maakond,0082
+Tartu vald,0794,Tartu maakond,0078
+Vara vald,0861,Tartu maakond,0078
+Tabivere vald,0773,Jõgeva maakond,0049
 Jõelähtme vald,0245,Harju maakond,0037
 Kuusalu vald,0353,Harju maakond,0037
 Saue vald,0727,Harju maakond,0037

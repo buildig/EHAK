@@ -3661,7 +3661,6 @@ Paadenurme küla,5774,8,Avinurme vald,0164,Ida-Viru maakond,0044
 Piilsi küla,6174,8,Lohusuu vald,0420,Ida-Viru maakond,0044
 Laekannu küla,4033,8,Avinurme vald,0164,Ida-Viru maakond,0044
 Kaubi küla,2857,8,Lääne-Saare vald,0433,Saare maakond,0074
-Kaitsemõisa küla,2550,8,Tabivere vald,0773,Jõgeva maakond,0049
 Võikvere küla,9529,8,Jõgeva vald,0248,Jõgeva maakond,0049
 Patjala küla,6040,8,Jõgeva vald,0248,Jõgeva maakond,0049
 Raadivere küla,6679,8,Palamuse vald,0578,Jõgeva maakond,0049
@@ -3812,10 +3811,7 @@ Mäeselja küla,5211,8,Puhja vald,0605,Tartu maakond,0078
 Järvaküla,2348,8,Puhja vald,0605,Tartu maakond,0078
 Kapsta küla,2699,8,Konguta vald,0331,Tartu maakond,0078
 Tännassilma küla,8575,8,Puhja vald,0605,Tartu maakond,0078
-Mustametsa küla,5065,8,Vara vald,0861,Tartu maakond,0078
-Nigula küla,5408,8,Tartu vald,0794,Tartu maakond,0078
 Läti küla,4648,8,Ülenurme vald,0949,Tartu maakond,0078
-Soeküla,7655,8,Tartu vald,0794,Tartu maakond,0078
 Kallaste linn,0279,4,Kallaste linn,0279,Tartu maakond,0078
 Lammiku küla,4093,8,Tartu vald,0794,Tartu maakond,0078
 Maramaa küla,4779,8,Tartu vald,0794,Tartu maakond,0078
@@ -3948,8 +3944,6 @@ Aiamaa küla,1129,8,Nõo vald,0528,Tartu maakond,0078
 Soosilla küla,7743,8,Ülenurme vald,0949,Tartu maakond,0078
 Täsvere küla,8581,8,Ülenurme vald,0949,Tartu maakond,0078
 Tähtvere küla,8560,8,Tähtvere vald,0831,Tartu maakond,0078
-Papiaru küla,5981,8,Vara vald,0861,Tartu maakond,0078
-Kauda küla,2858,8,Vara vald,0861,Tartu maakond,0078
 Väägvere küla,9680,8,Tartu vald,0794,Tartu maakond,0078
 Rebaste küla,6891,8,Viljandi vald,0898,Viljandi maakond,0084
 Oorgu küla,5701,8,Kolga-Jaani vald,0328,Viljandi maakond,0084
@@ -3957,7 +3951,6 @@ Sääsküla,7962,8,Luunja vald,0432,Tartu maakond,0078
 Kükitaja küla,3970,8,Tartu vald,0794,Tartu maakond,0078
 Kõivu küla,3749,8,Luunja vald,0432,Tartu maakond,0078
 Pilka küla,6249,8,Luunja vald,0432,Tartu maakond,0078
-Kikivere küla,3064,8,Tartu vald,0794,Tartu maakond,0078
 Ätte küla,9790,8,Vara vald,0861,Tartu maakond,0078
 Viidike küla,9273,8,Tartu vald,0794,Tartu maakond,0078
 Undi küla,8687,8,Vara vald,0861,Tartu maakond,0078
@@ -4210,6 +4203,12 @@ Kloostri küla,3210,8,Lihula vald,0411,Lääne maakond,0057
 Seli küla,7519,8,Lihula vald,0411,Lääne maakond,0057
 Pastaku küla,6031,8,Palupera vald,0582,Valga maakond,0082
 Uderna küla,8614,8,Rõngu vald,0694,Tartu maakond,0078
+Kaitsemõisa küla,2550,8,Tabivere vald,0773,Jõgeva maakond,0049
+Kikivere küla,3064,8,Tartu vald,0794,Tartu maakond,0078
+Mustametsa küla,5065,8,Vara vald,0861,Tartu maakond,0078
+Nigula küla,5408,8,Tartu vald,0794,Tartu maakond,0078
+Papiaru küla,5981,8,Vara vald,0861,Tartu maakond,0078
+Soeküla,7655,8,Tartu vald,0794,Tartu maakond,0078
 Vastse-Roosa küla,9131,8,Mõniste vald,0493,Võru maakond,0086
 Hintsiko küla,1863,8,Varstu vald,0865,Võru maakond,0086
 Tagakolga küla,8038,8,Varstu vald,0865,Võru maakond,0086
@@ -4222,6 +4221,7 @@ Tiido küla,8217,8,Valgjärve vald,0856,Põlva maakond,0065
 Laurimäe küla,4160,8,Varstu vald,0865,Võru maakond,0086
 Tundu küla,8415,8,Mõniste vald,0493,Võru maakond,0086
 Kiia küla,3025,8,Saue vald,0727,Harju maakond,0037
+Kauda küla,2858,8,Vara vald,0861,Tartu maakond,0078
 Karaski küla,2707,8,Kõlleste vald,0354,Põlva maakond,0065
 Voorepalu küla,9472,8,Kõlleste vald,0354,Põlva maakond,0065
 Kalme küla,2621,8,Põltsamaa vald,0616,Jõgeva maakond,0049
