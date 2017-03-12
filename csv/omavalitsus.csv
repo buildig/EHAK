@@ -47,7 +47,6 @@ Tori vald,0808,Pärnu maakond,0067
 Paikuse vald,0568,Pärnu maakond,0067
 Kareda vald,0288,Järva maakond,0051
 Viru-Nigula vald,0902,Lääne-Viru maakond,0059
-Põltsamaa linn,0617,Jõgeva maakond,0049
 Tõstamaa vald,0826,Pärnu maakond,0067
 Rakvere vald,0662,Lääne-Viru maakond,0059
 Jõhvi vald,0251,Ida-Viru maakond,0044
@@ -115,7 +114,6 @@ Tähtvere vald,0831,Tartu maakond,0078
 Kolga-Jaani vald,0328,Viljandi maakond,0084
 Koeru vald,0314,Järva maakond,0051
 Luunja vald,0432,Tartu maakond,0078
-Urvaste vald,0843,Võru maakond,0086
 Toila vald,0802,Ida-Viru maakond,0044
 Sangaste vald,0724,Valga maakond,0082
 Haaslava vald,0185,Tartu maakond,0078
@@ -127,7 +125,6 @@ Halliste vald,0192,Viljandi maakond,0084
 Misso vald,0468,Võru maakond,0086
 Värska vald,0934,Põlva maakond,0065
 Valga linn,0854,Valga maakond,0082
-Põltsamaa vald,0616,Jõgeva maakond,0049
 Pajusi vald,0573,Jõgeva maakond,0049
 Koigi vald,0325,Järva maakond,0051
 Kambja vald,0282,Tartu maakond,0078
@@ -152,7 +149,6 @@ Kanepi vald,0285,Põlva maakond,0065
 Puka vald,0608,Valga maakond,0082
 Põdrala vald,0613,Valga maakond,0082
 Mooste vald,0473,Põlva maakond,0065
-Sõmerpalu vald,0767,Võru maakond,0086
 Antsla vald,0143,Võru maakond,0086
 Mõniste vald,0493,Võru maakond,0086
 Helme vald,0203,Valga maakond,0082
@@ -170,8 +166,11 @@ Räpina vald,0707,Põlva maakond,0065
 Rägavere vald,0702,Lääne-Viru maakond,0059
 Sõmeru vald,0770,Lääne-Viru maakond,0059
 Tõlliste vald,0820,Valga maakond,0082
+Põltsamaa linn,0617,Jõgeva maakond,0049
 Taheva vald,0779,Valga maakond,0082
 Mäksa vald,0501,Tartu maakond,0078
+Urvaste vald,0843,Võru maakond,0086
+Sõmerpalu vald,0767,Võru maakond,0086
 Kihelkonna vald,0301,Saare maakond,0074
 Lääne-Saare vald,0433,Saare maakond,0074
 Vastseliina vald,0874,Võru maakond,0086
@@ -203,6 +202,7 @@ Alatskivi vald,0126,Tartu maakond,0078
 Kõlleste vald,0354,Põlva maakond,0065
 Laheda vald,0385,Põlva maakond,0065
 Põlva vald,0621,Põlva maakond,0065
+Põltsamaa vald,0616,Jõgeva maakond,0049
 Võru vald,0918,Võru maakond,0086
 Rõuge vald,0697,Võru maakond,0086
 Varstu vald,0865,Võru maakond,0086
