@@ -28,11 +28,12 @@ curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/asustusyksus_shp.zip" 
 unzip '*.zip'
 ```
 
-- `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o geojson format=geojson`
-- `mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o topojson format=topojson`
-- `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json`
-- `mapshaper -i maakond_20170101.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson`
-- `mapshaper -i *.shp -o csv format=csv`
+- `mkdir geojson && mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o geojson format=geojson`
+- `mkdir topojson && mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o topojson format=topojson`
+- `mapshaper -i maakond_{date}.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json`
+- `mapshaper -i maakond_{date}.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson`
+- `mkdir csv && mapshaper -i *.shp -o csv format=csv`
+- remove dates from generated files names
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
 
