@@ -33,7 +33,7 @@ unzip '*.zip'
 - `mapshaper -i maakond_{date}.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json`
 - `mapshaper -i maakond_{date}.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson`
 - `mkdir csv && mapshaper -i *.shp -o csv format=csv`
-- remove dates from generated files names
+- remove dates from generated filenames
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
 
