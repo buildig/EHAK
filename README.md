@@ -2,6 +2,8 @@
 
 Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed CSV, [GeoJSON](http://geojson.org/) ja [TopoJSON](https://github.com/topojson/topojson) formaadis / Spatial data for Estonian Administrative and Settlement Classification in CSV, [GeoJSON](http://geojson.org/) and [TopoJSON](https://github.com/topojson/topojson) format. [Monthly releases](https://github.com/buildig/EHAK/releases).
 
+Preview: https://buildig.com/EHAK/
+
 ## [asustusyksus.json](https://github.com/buildig/EHAK/blob/master/topojson/asustusyksus.json)
 
 <script src="https://embed.github.com/view/geojson/buildig/EHAK/master/topojson/asustusyksus.json"></script>
