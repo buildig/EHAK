@@ -53,11 +53,14 @@ done
 
 - Transform shapefiles to json and csv format using [mapshaper](http://www.mapshaper.org/):
 ```
-mkdir geojson && mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o geojson format=geojson &&
-mkdir topojson && mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o topojson format=topojson &&
+mkdir geojson && 
+mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o geojson format=geojson &&
+mkdir topojson && 
+mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o topojson format=topojson &&
 mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json &&
 mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson &&
-mkdir csv && mapshaper -i *.shp -o csv format=csv
+mkdir csv && 
+mapshaper -i *.shp -o csv format=csv
 ```
 
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
