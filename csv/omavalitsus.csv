@@ -1,6 +1,5 @@
 ONIMI,OKOOD,MNIMI,MKOOD
 Saue linn,0728,Harju maakond,0037
-Mõisaküla linn,0490,Viljandi maakond,0084
 Paldiski linn,0580,Harju maakond,0037
 Vasalemma vald,0868,Harju maakond,0037
 Kihnu vald,0303,Pärnu maakond,0067
@@ -24,7 +23,6 @@ Kiili vald,0304,Harju maakond,0037
 Pärnu linn,0625,Pärnu maakond,0067
 Tartu linn,0795,Tartu maakond,0078
 Noarootsi vald,0520,Lääne maakond,0057
-Lääne-Nigula vald,0436,Lääne maakond,0057
 Piirissaare vald,0595,Tartu maakond,0078
 Kullamaa vald,0342,Lääne maakond,0057
 Raikküla vald,0654,Rapla maakond,0070
@@ -48,12 +46,10 @@ Paikuse vald,0568,Pärnu maakond,0067
 Kareda vald,0288,Järva maakond,0051
 Viru-Nigula vald,0902,Lääne-Viru maakond,0059
 Tõstamaa vald,0826,Pärnu maakond,0067
-Rakvere vald,0662,Lääne-Viru maakond,0059
 Jõhvi vald,0251,Ida-Viru maakond,0044
 Türi vald,0835,Järva maakond,0051
 Vihula vald,0887,Lääne-Viru maakond,0059
 Iisaku vald,0224,Ida-Viru maakond,0044
-Rakvere linn,0663,Lääne-Viru maakond,0059
 Aegviidu vald,0112,Harju maakond,0037
 Kunda linn,0345,Lääne-Viru maakond,0059
 Avinurme vald,0164,Ida-Viru maakond,0044
@@ -70,7 +66,6 @@ Halinga vald,0188,Pärnu maakond,0067
 Vändra vald,0929,Pärnu maakond,0067
 Are vald,0149,Pärnu maakond,0067
 Mustvee linn,0485,Jõgeva maakond,0049
-Vinni vald,0900,Lääne-Viru maakond,0059
 Tapa vald,0790,Lääne-Viru maakond,0059
 Kasepää vald,0657,Jõgeva maakond,0049
 Paide vald,0565,Järva maakond,0051
@@ -120,7 +115,6 @@ Haaslava vald,0185,Tartu maakond,0078
 Ülenurme vald,0949,Tartu maakond,0078
 Narva-Jõesuu linn,0513,Ida-Viru maakond,0044
 Sonda vald,0751,Ida-Viru maakond,0044
-Abja vald,0105,Viljandi maakond,0084
 Halliste vald,0192,Viljandi maakond,0084
 Misso vald,0468,Võru maakond,0086
 Värska vald,0934,Põlva maakond,0065
@@ -132,9 +126,10 @@ Nõo vald,0528,Tartu maakond,0078
 Kohtla vald,0320,Ida-Viru maakond,0044
 Kohtla-Nõmme vald,0323,Ida-Viru maakond,0044
 Lasva vald,0389,Võru maakond,0086
+Nissi vald,0517,Harju maakond,0037
+Lääne-Nigula vald,0439,Lääne maakond,0057
 Orava vald,0547,Põlva maakond,0065
 Padise vald,0562,Harju maakond,0037
-Nissi vald,0518,Harju maakond,0037
 Märjamaa vald,0504,Rapla maakond,0070
 Roosna-Alliku vald,0684,Järva maakond,0051
 Albu vald,0129,Järva maakond,0051
@@ -151,6 +146,7 @@ Põdrala vald,0613,Valga maakond,0082
 Mooste vald,0473,Põlva maakond,0065
 Antsla vald,0143,Võru maakond,0086
 Mõniste vald,0493,Võru maakond,0086
+Mõisaküla linn,0490,Viljandi maakond,0084
 Helme vald,0203,Valga maakond,0082
 Hummuli vald,0208,Valga maakond,0082
 Varbla vald,0863,Pärnu maakond,0067
@@ -164,13 +160,15 @@ Tallinn,0784,Harju maakond,0037
 Konguta vald,0331,Tartu maakond,0078
 Räpina vald,0707,Põlva maakond,0065
 Rägavere vald,0702,Lääne-Viru maakond,0059
-Sõmeru vald,0770,Lääne-Viru maakond,0059
 Tõlliste vald,0820,Valga maakond,0082
 Põltsamaa linn,0617,Jõgeva maakond,0049
 Taheva vald,0779,Valga maakond,0082
 Mäksa vald,0501,Tartu maakond,0078
 Urvaste vald,0843,Võru maakond,0086
 Sõmerpalu vald,0767,Võru maakond,0086
+Rakvere vald,0662,Lääne-Viru maakond,0059
+Sõmeru vald,0770,Lääne-Viru maakond,0059
+Vinni vald,0900,Lääne-Viru maakond,0059
 Kihelkonna vald,0301,Saare maakond,0074
 Lääne-Saare vald,0433,Saare maakond,0074
 Vastseliina vald,0874,Võru maakond,0086
@@ -209,6 +207,8 @@ Varstu vald,0865,Võru maakond,0086
 Ahja vald,0117,Põlva maakond,0065
 Võnnu vald,0915,Tartu maakond,0078
 Haanja vald,0181,Võru maakond,0086
+Abja vald,0105,Viljandi maakond,0084
+Rakvere linn,0663,Lääne-Viru maakond,0059
 Valgjärve vald,0856,Põlva maakond,0065
 Lihula vald,0411,Lääne maakond,0057
 Koonga vald,0334,Pärnu maakond,0067
