@@ -1054,7 +1054,6 @@ Linaleo küla,4379,8,Alatskivi vald,0126,Tartu maakond,0078
 Vahessaare küla,8846,8,Konguta vald,0331,Tartu maakond,0078
 Kuningvere küla,3626,8,Alatskivi vald,0126,Tartu maakond,0078
 Suure-Kambja küla,7828,8,Kambja vald,0282,Tartu maakond,0078
-Pulli küla,6426,8,Kambja vald,0282,Tartu maakond,0078
 Naelavere küla,5337,8,Alatskivi vald,0126,Tartu maakond,0078
 Mälgi küla,5248,8,Konguta vald,0331,Tartu maakond,0078
 Mõra küla,5160,8,Haaslava vald,0185,Tartu maakond,0078
@@ -2157,7 +2156,6 @@ Habaja alevik,1708,7,Kose vald,0338,Harju maakond,0037
 Vaopere küla,9050,8,Kaiu vald,0277,Rapla maakond,0070
 Kellamäe küla,2935,8,Lääne-Saare vald,0433,Saare maakond,0074
 Oru küla,5738,8,Kose vald,0338,Harju maakond,0037
-Lehtmetsa küla,4214,8,Albu vald,0129,Järva maakond,0051
 Kaderna küla,2481,8,Emmaste vald,0175,Hiiu maakond,0039
 Lelu küla,4253,8,Käina vald,0368,Hiiu maakond,0039
 Kuusiku küla,3717,8,Emmaste vald,0175,Hiiu maakond,0039
@@ -2342,7 +2340,6 @@ Raudna küla,6852,8,Viljandi vald,0898,Viljandi maakond,0084
 Kadjaste küla,2486,8,Vändra vald,0929,Pärnu maakond,0067
 Mustaru küla,5072,8,Vändra vald,0929,Pärnu maakond,0067
 Sõgula küla,7880,8,Kiili vald,0304,Harju maakond,0037
-Meegomäe küla,4839,8,Võru vald,0918,Võru maakond,0086
 Säästla küla,7967,8,Vändra vald,0929,Pärnu maakond,0067
 Mustmätta küla,5088,8,Lüganuse vald,0438,Ida-Viru maakond,0044
 Kopli küla,3436,8,Lüganuse vald,0438,Ida-Viru maakond,0044
@@ -2365,7 +2362,6 @@ Ohtu küla,5628,8,Keila vald,0295,Harju maakond,0037
 Pärnjõe küla,6616,8,Vändra vald,0929,Pärnu maakond,0067
 Purtse küla,6450,8,Lüganuse vald,0438,Ida-Viru maakond,0044
 Kiruvere küla,3156,8,Kose vald,0338,Harju maakond,0037
-Mägede küla,5215,8,Albu vald,0129,Järva maakond,0051
 Röa küla,7255,8,Rapla vald,0669,Rapla maakond,0070
 Suursoo küla,7868,8,Rae vald,0653,Harju maakond,0037
 Niidiküla,5412,8,Käina vald,0368,Hiiu maakond,0039
@@ -2726,11 +2722,9 @@ Tarva küla,8156,8,Halinga vald,0188,Pärnu maakond,0067
 Parisselja küla,6012,8,Are vald,0149,Pärnu maakond,0067
 Avispea küla,1484,8,Väike-Maarja vald,0926,Lääne-Viru maakond,0059
 Rahkla küla,6729,8,Laekvere vald,0381,Lääne-Viru maakond,0059
-Sindi linn,0741,4,Sindi linn,0741,Pärnu maakond,0067
 Kantküla,2688,8,Torma vald,0810,Jõgeva maakond,0049
 Ermistu küla,1628,8,Tõstamaa vald,0826,Pärnu maakond,0067
 Soomra küla,7723,8,Audru vald,0160,Pärnu maakond,0067
-Seljametsa küla,7536,8,Paikuse vald,0568,Pärnu maakond,0067
 Palupere küla,5954,8,Jõgeva vald,0248,Jõgeva maakond,0049
 Iravere küla,2099,8,Torma vald,0810,Jõgeva maakond,0049
 Sätsuvere küla,7943,8,Torma vald,0810,Jõgeva maakond,0049
@@ -2739,7 +2733,6 @@ Kanaküla,2648,8,Saarde vald,0710,Pärnu maakond,0067
 Kõima küla,3746,8,Audru vald,0160,Pärnu maakond,0067
 Lõuka küla,4617,8,Tõstamaa vald,0826,Pärnu maakond,0067
 Päraküla,6595,8,Tõstamaa vald,0826,Pärnu maakond,0067
-Kõrsa küla,3812,8,Tori vald,0808,Pärnu maakond,0067
 Pulli küla,6425,8,Sauga vald,0730,Pärnu maakond,0067
 Vainu küla,8885,8,Sauga vald,0730,Pärnu maakond,0067
 Kiisa küla,3046,8,Sauga vald,0730,Pärnu maakond,0067
@@ -3059,8 +3052,8 @@ Pariisi küla,6004,8,Kadrina vald,0272,Lääne-Viru maakond,0059
 Salda küla,7376,8,Kadrina vald,0272,Lääne-Viru maakond,0059
 Lokuta küla,4474,8,Tapa vald,0790,Lääne-Viru maakond,0059
 Rava küla,6870,8,Ambla vald,0134,Järva maakond,0051
-Kõrveküla,3822,8,Tapa vald,0790,Lääne-Viru maakond,0059
 Kuiaru küla,3526,8,Tori vald,0808,Pärnu maakond,0067
+Paikuse alev,5864,3,Paikuse vald,0568,Pärnu maakond,0067
 Vändra alev,9663,3,Vändra vald (alev),0931,Pärnu maakond,0067
 Kalmaru küla,2619,8,Vändra vald,0929,Pärnu maakond,0067
 Kirikumõisa küla,3127,8,Vändra vald,0929,Pärnu maakond,0067
@@ -3533,7 +3526,6 @@ Vanamõisa küla,9021,8,Torma vald,0810,Jõgeva maakond,0049
 Leetva küla,4190,8,Vändra vald,0929,Pärnu maakond,0067
 Lavassaare alev,4165,3,Audru vald,0160,Pärnu maakond,0067
 Pitsalu küla,6278,8,Halinga vald,0188,Pärnu maakond,0067
-Paikuse alev,5864,3,Paikuse vald,0568,Pärnu maakond,0067
 Pikevere küla,6230,8,Väike-Maarja vald,0926,Lääne-Viru maakond,0059
 Odiste küla,5595,8,Kolga-Jaani vald,0328,Viljandi maakond,0084
 Umbusi küla,8674,8,Põltsamaa vald,0616,Jõgeva maakond,0049
@@ -3751,12 +3743,10 @@ Kõduküla,3738,8,Rõngu vald,0694,Tartu maakond,0078
 Urmi küla,8727,8,Palupera vald,0582,Valga maakond,0082
 Raigaste küla,6748,8,Rõngu vald,0694,Tartu maakond,0078
 Kabina küla,2458,8,Luunja vald,0432,Tartu maakond,0078
-Raanitsa küla,6692,8,Kambja vald,0282,Tartu maakond,0078
 Rulli küla,7113,8,Põdrala vald,0613,Valga maakond,0082
 Nõuni küla,5540,8,Palupera vald,0582,Valga maakond,0082
 Talvikese küla,8085,8,Kambja vald,0282,Tartu maakond,0078
 Kavastu küla,2897,8,Luunja vald,0432,Tartu maakond,0078
-Kammeri küla,2644,8,Kambja vald,0282,Tartu maakond,0078
 Koruste küla,3457,8,Rõngu vald,0694,Tartu maakond,0078
 Pühaste küla,6663,8,Puka vald,0608,Valga maakond,0082
 Rannaküla,6809,8,Rõngu vald,0694,Tartu maakond,0078
@@ -3827,7 +3817,6 @@ Märja alevik,5277,7,Tähtvere vald,0831,Tartu maakond,0078
 Räni alevik,7214,7,Ülenurme vald,0949,Tartu maakond,0078
 Haage küla,1681,8,Tähtvere vald,0831,Tartu maakond,0078
 Pihva küla,6155,8,Tähtvere vald,0831,Tartu maakond,0078
-Ivaste küla,2119,8,Kambja vald,0282,Tartu maakond,0078
 Raassilla küla,6697,8,Tarvastu vald,0797,Viljandi maakond,0084
 Pikareinu küla,6217,8,Valgjärve vald,0856,Põlva maakond,0065
 Atra küla,1440,8,Palupera vald,0582,Valga maakond,0082
@@ -3949,6 +3938,8 @@ Lota küla,4530,8,Õru vald,0943,Valga maakond,0082
 Lauküla,4146,8,Sangaste vald,0724,Valga maakond,0082
 Roosi küla,7071,8,Laheda vald,0385,Põlva maakond,0065
 Põlgaste küla,6520,8,Kanepi vald,0285,Põlva maakond,0065
+Kammeri küla,2644,8,Kambja vald,0282,Tartu maakond,0078
+Vissi küla,9422,8,Valgjärve vald,0856,Põlva maakond,0065
 Võiardi küla,9511,8,Räpina vald,0707,Põlva maakond,0065
 Keeni küla,2914,8,Sangaste vald,0724,Valga maakond,0082
 Tiidu küla,8219,8,Sangaste vald,0724,Valga maakond,0082
@@ -4007,7 +3998,6 @@ Kalme küla,2623,8,Helme vald,0203,Valga maakond,0082
 Tõitse küla,8478,8,Koonga vald,0334,Pärnu maakond,0067
 Hummuli alevik,1905,7,Hummuli vald,0208,Valga maakond,0082
 Soontaga küla,7730,8,Puka vald,0608,Valga maakond,0082
-Võlsi küla,9564,8,Võru vald,0918,Võru maakond,0086
 Vagula küla,8833,8,Võru vald,0918,Võru maakond,0086
 Karida küla,2722,8,Lääne-Saare vald,0433,Saare maakond,0074
 Vennati küla,9206,8,Lääne-Saare vald,0433,Saare maakond,0074
@@ -4031,6 +4021,9 @@ Päka küla,6585,8,Orava vald,0547,Põlva maakond,0065
 Paidra küla,5862,8,Lasva vald,0389,Võru maakond,0086
 Jõeveere küla,2256,8,Veriora vald,0879,Põlva maakond,0065
 Laabi küla,4002,8,Harku vald,0198,Harju maakond,0037
+Mägede küla,5215,8,Albu vald,0129,Järva maakond,0051
+Võru linn,0919,4,Võru linn,0919,Võru maakond,0086
+Võlsi küla,9564,8,Võru vald,0918,Võru maakond,0086
 Kärdla linn,3895,5,Hiiu vald,0204,Hiiu maakond,0039
 Lapi küla,4118,8,Võru vald,0918,Võru maakond,0086
 Kõrgessaare küla,3796,8,Lasva vald,0389,Võru maakond,0086
@@ -4107,6 +4100,8 @@ Niibi küla,5415,8,Lääne-Nigula vald,0439,Lääne maakond,0057
 Kärsa küla,3923,8,Ahja vald,0117,Põlva maakond,0065
 Akste küla,1156,8,Ahja vald,0117,Põlva maakond,0065
 Rehemäe küla,6905,8,Lääne-Nigula vald,0439,Lääne maakond,0057
+Kõrveküla,3822,8,Tapa vald,0790,Lääne-Viru maakond,0059
+Lehtmetsa küla,4214,8,Albu vald,0129,Järva maakond,0051
 Ringiste küla,7005,8,Taheva vald,0779,Valga maakond,0082
 Pikkjärve küla,6234,8,Karula vald,0289,Valga maakond,0082
 Karula küla,2775,8,Karula vald,0289,Valga maakond,0082
@@ -4125,6 +4120,7 @@ Haanja küla,1689,8,Haanja vald,0181,Võru maakond,0086
 Kahru küla,2513,8,Rõuge vald,0697,Võru maakond,0086
 Prangli küla,6354,8,Kõlleste vald,0354,Põlva maakond,0065
 Vooreküla,9470,8,Vastse-Kuuste vald,0872,Põlva maakond,0065
+Meegomäe küla,4839,8,Võru vald,0918,Võru maakond,0086
 Laanemetsa küla,4024,8,Taheva vald,0779,Valga maakond,0082
 Taheva küla,8069,8,Taheva vald,0779,Valga maakond,0082
 Hargla küla,1766,8,Taheva vald,0779,Valga maakond,0082
@@ -4157,9 +4153,7 @@ Sortsi küla,7756,8,Tabivere vald,0773,Jõgeva maakond,0049
 Mõniste küla,5149,8,Mõniste vald,0493,Võru maakond,0086
 Parmupalu küla,6019,8,Mõniste vald,0493,Võru maakond,0086
 Varstu alevik,9095,7,Varstu vald,0865,Võru maakond,0086
-Maaritsa küla,4707,8,Valgjärve vald,0856,Põlva maakond,0065
 Veski küla,9229,8,Kõlleste vald,0354,Põlva maakond,0065
-Krüüdneri küla,3511,8,Valgjärve vald,0856,Põlva maakond,0065
 Kohtla-Nõmme alev,3270,3,Kohtla-Nõmme vald,0323,Ida-Viru maakond,0044
 Kelu küla,2946,8,Lihula vald,0411,Lääne maakond,0057
 Kloostri küla,3210,8,Lihula vald,0411,Lääne maakond,0057
@@ -4239,6 +4233,8 @@ Rebaste küla,6889,8,Kanepi vald,0285,Põlva maakond,0065
 Hellekunnu küla,1810,8,Lasva vald,0389,Võru maakond,0086
 Lepassaare küla,4286,8,Orava vald,0547,Põlva maakond,0065
 Selgase küla,7513,8,Mustjala vald,0483,Saare maakond,0074
+Sindi linn,0741,4,Sindi linn,0741,Pärnu maakond,0067
+Seljametsa küla,7536,8,Paikuse vald,0568,Pärnu maakond,0067
 Uue-Saaluse küla,8762,8,Haanja vald,0181,Võru maakond,0086
 Voki küla,9458,8,Vastseliina vald,0874,Võru maakond,0086
 Kogula küla,3258,8,Lääne-Saare vald,0433,Saare maakond,0074
@@ -4249,12 +4245,18 @@ Võmmorski küla,9567,8,Meremäe vald,0460,Võru maakond,0086
 Võduvere küla,9489,8,Jõgeva vald,0248,Jõgeva maakond,0049
 Tromsi küla,8353,8,Põlva vald,0621,Põlva maakond,0065
 Roodu küla,7063,8,Kohtla vald,0320,Ida-Viru maakond,0044
+Kõrsa küla,3812,8,Tori vald,0808,Pärnu maakond,0067
+Ivaste küla,2119,8,Kambja vald,0282,Tartu maakond,0078
 Kuremaa alevik,3642,7,Jõgeva vald,0248,Jõgeva maakond,0049
 Vanavälja küla,9037,8,Palamuse vald,0578,Jõgeva maakond,0049
 Preeksa küla,6358,8,Haanja vald,0181,Võru maakond,0086
 Tsiistre küla,8360,8,Misso vald,0468,Võru maakond,0086
 Uuta küla,8796,8,Nõo vald,0528,Tartu maakond,0078
 Niitsiku küla,5422,8,Mikitamäe vald,0465,Põlva maakond,0065
+Krüüdneri küla,3511,8,Valgjärve vald,0856,Põlva maakond,0065
+Maaritsa küla,4707,8,Valgjärve vald,0856,Põlva maakond,0065
+Pulli küla,6426,8,Kambja vald,0282,Tartu maakond,0078
+Raanitsa küla,6692,8,Kambja vald,0282,Tartu maakond,0078
 Kiuma küla,3170,8,Põlva vald,0621,Põlva maakond,0065
 Varbuse küla,9066,8,Kanepi vald,0285,Põlva maakond,0065
 Soosalu küla,7740,8,Märjamaa vald,0504,Rapla maakond,0070
@@ -4364,7 +4366,6 @@ Uuevälja küla,8772,8,Pajusi vald,0573,Jõgeva maakond,0049
 Puiatu küla,6404,8,Põltsamaa vald,0616,Jõgeva maakond,0049
 Rutikvere küla,7135,8,Koigi vald,0325,Järva maakond,0051
 Kastre küla,2840,8,Mäksa vald,0501,Tartu maakond,0078
-Vissi küla,9422,8,Valgjärve vald,0856,Põlva maakond,0065
 Vana-Roosa küla,9002,8,Varstu vald,0865,Võru maakond,0086
 Ähijärve küla,9737,8,Antsla vald,0143,Võru maakond,0086
 Põltsamaa linn,0617,4,Põltsamaa linn,0617,Jõgeva maakond,0049
@@ -4404,7 +4405,6 @@ Matsuri küla,4827,8,Värska vald,0934,Põlva maakond,0065
 Koidula küla,3277,8,Värska vald,0934,Põlva maakond,0065
 Rahkla küla,6726,8,Sõmeru vald,0770,Lääne-Viru maakond,0059
 Viru-Kabala küla,9396,8,Rägavere vald,0702,Lääne-Viru maakond,0059
-Võru linn,0919,4,Võru linn,0919,Võru maakond,0086
 Roosisaare küla,7078,8,Võru vald,0918,Võru maakond,0086
 Lepa küla,4281,8,Taheva vald,0779,Valga maakond,0082
 Pugritsa küla,6388,8,Karula vald,0289,Valga maakond,0082
