@@ -30,7 +30,7 @@
   <div id='map'></div>
 
   <script>
-    var map = new L.Map('map');
+    var map = new L.Map('map').setView([58.61, 25.25], 4);
 
     var ortofoto = L.tileLayer('http://kaart.maakaart.ee/orto/{z}/{x}/{y}.jpeg', {
       minZoom: 14,
