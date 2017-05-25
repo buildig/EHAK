@@ -5,10 +5,11 @@
   <meta charset=utf-8 />
   <title>Eesti haldusjaotus</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+  <link rel='stylesheet' href='https://unpkg.com/leaflet@1.0.3/dist/leaflet.css' />
 
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+  <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+  <script src='https://unpkg.com/leaflet@1.0.3/dist/leaflet.js'></script>
+  <script src='https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js'></script>
   <style>
     body {
       margin: 0;
@@ -25,12 +26,11 @@
 </head>
 
 <body>
-  <script src='js/leaflet-omnivore.min.js'></script>
 
   <div id='map'></div>
 
   <script>
-    var map = new L.Map('map').setView([58.61, 25.25], 4);
+    var map = new L.Map('map');
 
     var ortofoto = L.tileLayer('http://kaart.maakaart.ee/orto/{z}/{x}/{y}.jpeg', {
       minZoom: 14,
@@ -45,19 +45,19 @@
     var aluskaart = L.layerGroup([ortofoto, positron])
       .addTo(map);
 
-    function style(feature) {
+    function ayStyle(ayFeature) {
       return {
         weight: 2,
         opacity: 0.5,
-        color: 'orange',
+        color: 'grey',
         dashArray: '3'
       }
     }
 
-    function eachLayer(layer) {
-      var feature = layer.toGeoJSON();
-      if (feature.properties && feature.properties.ANIMI) {
-        layer.bindPopup('<b>' + feature.properties.ANIMI + '</b></br>' + feature.properties.ONIMI + '</br>' + feature.properties.MNIMI);
+    function eachLayer(ay) {
+      var ayFeature = ay.toGeoJSON();
+      if (ayFeature.properties && ayFeature.properties.ANIMI) {
+        ay.bindPopup('<b>' + ayFeature.properties.ANIMI + '</b></br>' + ayFeature.properties.ONIMI + '</br>' + ayFeature.properties.MNIMI);
       }
     }
 
@@ -66,8 +66,12 @@
         map.fitBounds(asustusyksus.getBounds());
         map.addLayer(asustusyksus);
         asustusyksus.eachLayer(eachLayer);
-        asustusyksus.setStyle(style);
+        asustusyksus.setStyle(ayStyle);
       });
+
+    asustusyksus.on('click', function(e) {
+      map.fitBounds(e.layer.getBounds());
+    });
   </script>
 </body>
 
