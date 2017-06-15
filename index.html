@@ -6,6 +6,7 @@
   <title>Eesti haldusjaotus</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <link rel='stylesheet' href='https://unpkg.com/leaflet@1.0.3/dist/leaflet.css' />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
 
   <script src='https://unpkg.com/leaflet@1.0.3/dist/leaflet.js'></script>
   <script src='https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js'></script>
@@ -21,12 +22,17 @@
       bottom: 0;
       width: 100%;
     }
+
+    .github-fork-ribbon.left-bottom:before {
+      background-color: #333;
+    }
   </style>
 </head>
 
 <body>
 
   <div id='map'></div>
+  <a class="github-fork-ribbon left-bottom fixed" href="https://github.com/buildig/EHAK" title="Fork me on GitHub">Fork me on GitHub</a>
 
   <script>
     var map = new L.Map('map');
@@ -44,13 +50,13 @@
 
     var ayLayer = L.geoJson(null, {
       style: {
-          color: 'orange',
-          weight: 1,
-          fillOpacity: 0.1
-        },
+        color: 'orange',
+        weight: 1,
+        fillOpacity: 0.1
+      },
       smoothFactor: 0.5,
       attribution: '&copy; <a href="http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html">Maa-amet</a>'
-    }).addTo(map);
+    });
 
     var asustusyksus = omnivore.geojson('https://rawgit.com/buildig/EHAK/master/geojson/asustusyksus.json', null, ayLayer)
       .on('ready', function() {
