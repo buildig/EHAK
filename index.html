@@ -30,20 +30,11 @@
   <div id='map'></div>
 
   <script>
-    var map = new L.Map('map').setView([58.61, 25.25], 4);
-
-    var ortofoto = L.tileLayer('http://kaart.maakaart.ee/orto/{z}/{x}/{y}.jpeg', {
-      minZoom: 14,
-      attribution: 'Ortofoto &copy; <a title="Maa-amet" href="http://geoportaal.maaamet.ee" target="_blank">Maa-amet</a>'
-    });
+    var map = new L.Map('map');
 
     var positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-      maxZoom: 13,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>'
-    });
-
-    var aluskaart = L.layerGroup([ortofoto, positron])
-      .addTo(map);
+    }).addTo(map);
 
     function ayStyle(ayFeature) {
       return {
