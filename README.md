@@ -6,7 +6,7 @@ Preview: https://buildig.com/EHAK
 
 ## Workflow
 
-Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html) and transform to json and csv format:
+Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html) and transform to json and csv format (requires [mapshaper](https://www.npmjs.com/package/mapshaper/tutorial)):
 ```
 php -r "readfile('https://raw.githubusercontent.com/buildig/EHAK/master/workflow.sh');" > workflow.sh
 chmod a+x workflow.sh
