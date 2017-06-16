@@ -2,8 +2,6 @@
 
 Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed CSV, [GeoJSON](http://geojson.org/) ja [TopoJSON](https://github.com/topojson/topojson) formaadis / Spatial data for Estonian Administrative and Settlement Classification in CSV, [GeoJSON](http://geojson.org/) and [TopoJSON](https://github.com/topojson/topojson) format. [Monthly releases](https://github.com/buildig/EHAK/releases).
 
-[CSV formaadis](https://github.com/buildig/EHAK/blob/master/csv/omavalitsus_rahvaarv.csv) on lisaks EHAK andmetele rahvaarv omavalitsuste lõikes jooksva aasta alguse seisuga. / Also, population per local government is included in [CSV format](https://github.com/buildig/EHAK/blob/master/csv/omavalitsus_rahvaarv.csv) (yearly snapshots).
-
 Preview: https://buildig.com/EHAK
 
 ## Workflow
