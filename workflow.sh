@@ -27,8 +27,7 @@ mkdir topojson &&
 mapshaper -i *.shp -proj wgs84 -simplify dp 5% -o topojson format=topojson &&
 mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json &&
 mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson &&
-mkdir csv && 
-mapshaper -i *.shp -o csv format=csv &&
-mapshaper -i csv/maakond.csv -sort 'MNIMI' -o csv/maakond.csv &&
-mapshaper -i csv/omavalitsus.csv -sort 'ONIMI' -o csv/omavalitsus.csv &&
-mapshaper -i csv/asustusyksus.csv -sort 'ANIMI' -o csv/asustusyksus.csv
+mkdir csv &&
+mapshaper -i maakond.shp -sort 'MNIMI' -o csv format=csv &&
+mapshaper -i omavalitsus.shp -sort 'ONIMI' -o csv format=csv &&
+mapshaper -i asustusyksus.shp -sort 'ANIMI' -o csv format=csv
