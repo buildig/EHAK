@@ -1,16 +1,16 @@
-MNIMI,MKOOD
-Harju maakond,0037
-Hiiu maakond,0039
-Ida-Viru maakond,0044
-Järva maakond,0051
-Jõgeva maakond,0049
-Lääne maakond,0057
-Lääne-Viru maakond,0059
-Pärnu maakond,0067
-Põlva maakond,0065
-Rapla maakond,0070
-Saare maakond,0074
-Tartu maakond,0078
-Valga maakond,0082
-Viljandi maakond,0084
-Võru maakond,0086
+MNIMI,MKOOD,AREA
+Harju maakond,0037,4326674197.518739
+Hiiu maakond,0039,1032439885.2594671
+Ida-Viru maakond,0044,3336604071.3037596
+Järva maakond,0051,2459221641.610951
+Jõgeva maakond,0049,2604177153.8638725
+Lääne maakond,0057,2424787651.589244
+Lääne-Viru maakond,0059,3628583788.010436
+Pärnu maakond,0067,4809521382.516133
+Põlva maakond,0065,2164151995.3638115
+Rapla maakond,0070,2979979749.47806
+Saare maakond,0074,2937639966.3028307
+Tartu maakond,0078,2993010186.6360707
+Valga maakond,0082,2042937127.6555924
+Viljandi maakond,0084,3420037467.2249646
+Võru maakond,0086,2305548923.563446
