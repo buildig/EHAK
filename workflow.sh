@@ -25,12 +25,12 @@ mkdir geojson &&
 mapshaper -i maakond.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'MNIMI' -o geojson format=geojson &&
 mapshaper -i omavalitsus.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'ONIMI' -o geojson format=geojson &&
 mapshaper -i asustusyksus.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'ANIMI' -o geojson format=geojson &&
-mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o geojson/estonia.json &&
+mapshaper -i maakond.shp -dissolve -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -o geojson/estonia.json &&
 mkdir topojson &&
 mapshaper -i maakond.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'MNIMI' -o topojson format=topojson &&
 mapshaper -i omavalitsus.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'ONIMI' -o topojson format=topojson &&
 mapshaper -i asustusyksus.shp -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -sort 'ANIMI' -o topojson format=topojson &&
-mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/estonia.json format=topojson &&
+mapshaper -i maakond.shp -dissolve -proj wgs84 -each 'AREA=this.originalArea' -simplify dp 5% -o topojson/estonia.json format=topojson &&
 mkdir csv &&
 mapshaper -i maakond.shp -each 'AREA=this.originalArea' -sort 'MNIMI' -o csv format=csv &&
 mapshaper -i omavalitsus.shp -each 'AREA=this.originalArea' -sort 'ONIMI' -o csv format=csv &&
