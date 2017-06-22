@@ -4,6 +4,17 @@ Eesti haldus- ja asustusjaotuse klassifikaatori ruumiandmed CSV, [GeoJSON](http:
 
 Preview: https://buildig.com/EHAK
 
+## Attributes
+
+- MNIMI - County name
+- MKOOD - County ID
+- ONIMI - Municipality name
+- OKOOD - Municipality ID
+- ANIMI - Settlements name
+- AKOOD - Settlement ID
+- TYYP - [Settlement type](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html)
+- AREA - area in square meters, [added](https://github.com/buildig/EHAK/issues/33) by _buildig_ with `mapshaper -each 'AREA=this.originalArea'`
+
 ## Workflow
 
 Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html) and transform to json and csv format (requires [mapshaper](https://www.npmjs.com/package/mapshaper/tutorial)):
