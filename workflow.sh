@@ -34,4 +34,5 @@ mapshaper -i maakond.shp -dissolve -proj wgs84 -simplify dp 5% -o topojson/eston
 mkdir csv &&
 mapshaper -i maakond.shp -each 'AREA=this.originalArea' -sort 'MNIMI' -o csv format=csv &&
 mapshaper -i omavalitsus.shp -each 'AREA=this.originalArea' -sort 'ONIMI' -o csv format=csv &&
-mapshaper -i asustusyksus.shp -each 'AREA=this.originalArea' -sort 'ANIMI' -o csv format=csv
+mapshaper -i asustusyksus.shp -each 'AREA=this.originalArea' -sort 'ANIMI' -o csv format=csv &&
+mapshaper -i maakond.shp -dissolve -each 'AREA=this.originalArea' -o csv/estonia.csv format=csv
