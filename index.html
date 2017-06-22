@@ -44,7 +44,7 @@
     function eachLayer(ay) {
       var ayFeature = ay.toGeoJSON();
       if (ayFeature.properties && ayFeature.properties.ANIMI) {
-        ay.bindPopup('<b>' + ayFeature.properties.ANIMI + '</b></br>' + ayFeature.properties.ONIMI + '</br>' + ayFeature.properties.MNIMI);
+        ay.bindPopup('<b>' + ayFeature.properties.ANIMI + '</b></br>Pindala: ' + (ayFeature.properties.AREA / 1000000).toFixed(2) + ' km<sup>2</sup></br>' + ayFeature.properties.ONIMI + '</br>' + ayFeature.properties.MNIMI);
       }
     }
 
