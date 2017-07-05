@@ -1,0 +1,11 @@
+ID,NIMETUS,NAME
+0, maakond, county
+1, vald, rural municipality
+2, osavald, rural municipality regions
+3, alev, village
+4, linn, town
+5, vallasisene linn, town without municipal status
+6, linnaosa, urban regions
+7, alevik, township
+8, küla, hamlet
+9, asum või muu omavalitsuseta asustusüksus, region or other settlement without municipal status
