@@ -2364,7 +2364,7 @@ Napi küla,5350,8,Hiiu vald,0204,Hiiu maakond,0039,1491311.749399541
 Napi küla,5354,8,Misso vald,0468,Võru maakond,0086,1820316.8717002866
 Naravere küla,5353,8,Vigala vald,0884,Rapla maakond,0070,23120736.957199737
 Naruski küla,5355,8,Laheda vald,0385,Põlva maakond,0065,5903684.126350132
-Narva linn,0511,4,Narva linn,0511,Ida-Viru maakond,0044,68717944.75584525
+Narva linn,0511,4,Narva linn,0511,Ida-Viru maakond,0044,68721703.45994529
 Narva-Jõesuu linn,0513,4,Narva-Jõesuu linn,0513,Ida-Viru maakond,0044,10228929.146446478
 Nasja küla,5358,8,Puhja vald,0605,Tartu maakond,0078,8435287.183750268
 Nasva alevik,5361,7,Lääne-Saare vald,0433,Saare maakond,0074,12541610.693364913
@@ -2507,7 +2507,7 @@ Ohessaare küla,5621,8,Torgu vald,0807,Saare maakond,0074,2961771.8478640993
 Ohtja küla,5623,8,Mustjala vald,0483,Saare maakond,0074,10719644.418400407
 Ohtla küla,5626,8,Martna vald,0452,Lääne maakond,0057,7675317.304249875
 Ohtu küla,5628,8,Keila vald,0295,Harju maakond,0037,29451865.838598993
-Ohukotsu küla,5631,8,Märjamaa vald,0504,Rapla maakond,0070,5737119.929450353
+Ohukotsu küla,5631,8,Märjamaa vald,0504,Rapla maakond,0070,5736863.98340035
 Ohulepa küla,5634,8,Rapla vald,0669,Rapla maakond,0070,19379819.297299985
 Oidrema küla,5638,8,Koonga vald,0334,Pärnu maakond,0067,21746214.758949764
 Oina küla,5639,8,Muhu vald,0478,Saare maakond,0074,1794461.2397999924
@@ -2641,7 +2641,7 @@ Pala küla,5906,8,Türi vald,0835,Järva maakond,0051,16530988.998451289
 Pala küla,5907,8,Kose vald,0338,Harju maakond,0037,6437887.175949932
 Pala küla,5905,8,Pala vald,0576,Jõgeva maakond,0049,2329899.3285998977
 Palade küla,5908,8,Pühalepa vald,0639,Hiiu maakond,0039,2600850.569349696
-Palamulla küla,5911,8,Rapla vald,0669,Rapla maakond,0070,25127772.2685009
+Palamulla küla,5911,8,Rapla vald,0669,Rapla maakond,0070,25128028.214550905
 Palamuse alevik,5913,7,Palamuse vald,0578,Jõgeva maakond,0049,1297348.1481998642
 Palamuste küla,5916,8,Puka vald,0608,Valga maakond,0082,6550253.83474979
 Palandõ küla,5914,8,Meremäe vald,0460,Võru maakond,0086,309926.5849000323
@@ -2887,7 +2887,7 @@ Pugritsa küla,6388,8,Karula vald,0289,Valga maakond,0082,14402883.326200217
 Pugõstu küla,6386,8,Rõuge vald,0697,Võru maakond,0086,670178.2348000488
 Puhatu küla,6391,8,Illuka vald,0229,Ida-Viru maakond,0044,55655979.714349605
 Puhja alevik,6393,7,Puhja vald,0605,Tartu maakond,0078,1241308.8617000037
-Puhkova küla,6396,8,Vaivara vald,0851,Ida-Viru maakond,0044,11256264.201099996
+Puhkova küla,6396,8,Vaivara vald,0851,Ida-Viru maakond,0044,11254825.885600148
 Puhmu küla,6398,8,Koeru vald,0314,Järva maakond,0051,7698266.543749972
 Puhtaleiva küla,6401,8,Tartu vald,0794,Tartu maakond,0078,4595535.169700993
 Puiatu küla,6404,8,Põltsamaa vald,0616,Jõgeva maakond,0049,18930599.87640014
@@ -3354,7 +3354,7 @@ Saara küla,7278,8,Vinni vald,0900,Lääne-Viru maakond,0059,10338268.364250913
 Saarde küla,7281,8,Vastseliina vald,0874,Võru maakond,0086,11042404.830949921
 Saarde küla,7280,8,Saarde vald,0710,Pärnu maakond,0067,15829612.125349753
 Saardu küla,7283,8,Ridala vald,0674,Lääne maakond,0057,6082345.902873483
-Saare küla,7282,8,Puhja vald,0605,Tartu maakond,0078,8036618.077899888
+Saare küla,7282,8,Puhja vald,0605,Tartu maakond,0078,8019271.505899906
 Saare küla,7286,8,Piirissaare vald,0595,Tartu maakond,0078,1426807.859451298
 Saare küla,7287,8,Varbla vald,0863,Pärnu maakond,0067,4560338.147740833
 Saare küla / Lyckholm,7284,8,Noarootsi vald,0520,Lääne maakond,0057,11356393.607450375
@@ -3837,7 +3837,7 @@ Tarbja küla,8152,8,Paide vald,0565,Järva maakond,0051,14334279.92844986
 Tareste küla,8150,8,Pühalepa vald,0639,Hiiu maakond,0039,15734171.77295016
 Tareste küla,8153,8,Leisi vald,0403,Saare maakond,0074,443926.74624988565
 Taritu küla,8155,8,Lääne-Saare vald,0433,Saare maakond,0074,2517120.156100113
-Tartu linn,0795,4,Tartu linn,0795,Tartu maakond,0078,38968838.89850052
+Tartu linn,0795,4,Tartu linn,0795,Tartu maakond,0078,38968854.11210048
 Tarumaa küla,8154,8,Lüganuse vald,0438,Ida-Viru maakond,0044,54649505.43015028
 Tarva küla,8157,8,Koonga vald,0334,Pärnu maakond,0067,34184561.084599815
 Tarva küla,8156,8,Halinga vald,0188,Pärnu maakond,0067,11938785.696201036
@@ -4004,14 +4004,14 @@ Tuuraste küla,8463,8,Audru vald,0160,Pärnu maakond,0067,3164062.599900373
 Tuuru küla,8465,8,Ridala vald,0674,Lääne maakond,0057,3403998.4381371136
 Tähemaa küla,8555,8,Vara vald,0861,Tartu maakond,0078,29754210.903001286
 Tähkvere küla,8558,8,Torma vald,0810,Jõgeva maakond,0049,19429204.92135016
-Tähtvere küla,8560,8,Tähtvere vald,0831,Tartu maakond,0078,7829905.738450857
+Tähtvere küla,8560,8,Tähtvere vald,0831,Tartu maakond,0078,7829890.524850894
 Täkumetsa küla,8563,8,Kohtla vald,0320,Ida-Viru maakond,0044,2408429.2090999903
 Tällevere küla,8566,8,Suure-Jaani vald,0758,Viljandi maakond,0084,11467688.162850408
 Tänassilma küla,8572,8,Saku vald,0718,Harju maakond,0037,8497586.06390038
 Tänassilma küla,8569,8,Viljandi vald,0898,Viljandi maakond,0084,4468986.332550062
 Tännapere küla,8570,8,Roosna-Alliku vald,0684,Järva maakond,0051,1778692.6205503426
+Tännassilma küla,8575,8,Puhja vald,0605,Tartu maakond,0078,6252885.964200505
 Tännassilma küla,8574,8,Põlva vald,0621,Põlva maakond,0065,10723645.462700337
-Tännassilma küla,8575,8,Puhja vald,0605,Tartu maakond,0078,6249236.875400514
 Tännassilma küla,8573,8,Türi vald,0835,Järva maakond,0051,21114297.58505003
 Täpsi küla,8577,8,Varbla vald,0863,Pärnu maakond,0067,3726804.8376498255
 Tärivere küla,8578,8,Iisaku vald,0224,Ida-Viru maakond,0044,5886825.80390037
@@ -4407,7 +4407,7 @@ Vetla küla,9248,8,Anija vald,0140,Harju maakond,0037,38749573.82815042
 Vidrike küla,9252,8,Otepää vald,0636,Valga maakond,0082,10132341.193499865
 Vidruka küla,9254,8,Lääne-Nigula vald,0439,Lääne maakond,0057,34864740.733800374
 Vihasoo küla,9257,8,Kuusalu vald,0353,Harju maakond,0037,7205942.836071277
-Vihavu küla,9260,8,Puhja vald,0605,Tartu maakond,0078,12816003.243599612
+Vihavu küla,9260,8,Puhja vald,0605,Tartu maakond,0078,12828942.566999571
 Vihi küla,9262,8,Suure-Jaani vald,0758,Viljandi maakond,0084,16640644.199450262
 Vihkla küla,9261,8,Haanja vald,0181,Võru maakond,0086,872334.6532503507
 Vihterpalu küla,9265,8,Padise vald,0562,Harju maakond,0037,7402297.683438302
@@ -4504,7 +4504,7 @@ Viti küla,9434,8,Harku vald,0198,Harju maakond,0037,3940167.1668996927
 Vitsiku küla,9432,8,Kohtla vald,0320,Ida-Viru maakond,0044,14351584.195249964
 Vitsjärve küla,9437,8,Põltsamaa vald,0616,Jõgeva maakond,0049,14794231.716399612
 Vivva küla,9440,8,Orava vald,0547,Põlva maakond,0065,2373663.782999942
-Vodava küla,9444,8,Vaivara vald,0851,Ida-Viru maakond,0044,5631544.244350088
+Vodava küla,9444,8,Vaivara vald,0851,Ida-Viru maakond,0044,5629223.855749907
 Vodja küla,9446,8,Kareda vald,0288,Järva maakond,0051,7658332.13704999
 Vohnja küla,9449,8,Kadrina vald,0272,Lääne-Viru maakond,0059,5424457.644650319
 Voika küla,9452,8,Nõo vald,0528,Tartu maakond,0078,8870131.885399926
@@ -4542,7 +4542,7 @@ Väike-Nõmmküla / Persåker,5523,8,Noarootsi vald,0520,Lääne maakond,0057,78
 Väike-Pahila küla,9629,8,Orissaare vald,0550,Saare maakond,0074,11915409.229100171
 Väike-Pungerja küla,9631,8,Mäetaguse vald,0498,Ida-Viru maakond,0044,21720161.59099981
 Väike-Rahula küla,9632,8,Orissaare vald,0550,Saare maakond,0074,11187975.87119977
-Väike-Rakke küla,9633,8,Rannu vald,0666,Tartu maakond,0078,16857684.243477717
+Väike-Rakke küla,9633,8,Rannu vald,0666,Tartu maakond,0078,16858442.40327776
 Väike-Rakke küla,9647,8,Rakke vald,0660,Lääne-Viru maakond,0059,2758883.3214501506
 Väike-Rootsi küla,9634,8,Pihtla vald,0592,Saare maakond,0074,1301357.060350428
 Väike-Rõsna küla,9635,8,Värska vald,0934,Põlva maakond,0065,1827079.1714307382
