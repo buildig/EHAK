@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+mkdir tmp && 
+cd tmp &&
 curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/maakond_shp.zip" &&
 mv maakond_shp.zip maakond.zip &&
 curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/omavalitsus_shp.zip" &&
@@ -35,4 +37,12 @@ mkdir csv &&
 mapshaper -i maakond.shp -each 'AREA=this.originalArea' -sort 'MNIMI' -o csv format=csv &&
 mapshaper -i omavalitsus.shp -each 'AREA=this.originalArea' -sort 'ONIMI' -o csv format=csv &&
 mapshaper -i asustusyksus.shp -each 'AREA=this.originalArea' -sort 'ANIMI' -o csv format=csv &&
-mapshaper -i maakond.shp -dissolve -each 'AREA=this.originalArea' -o csv/estonia.csv format=csv
+mapshaper -i maakond.shp -dissolve -each 'AREA=this.originalArea' -o csv/estonia.csv format=csv &&
+cd .. &&
+rm -Rf geojson && 
+mv tmp/geojson geojson &&
+rm -Rf topojson && 
+mv tmp/topojson topojson &&
+rm -Rf csv && 
+mv tmp/csv csv &&
+rm -Rf tmp
