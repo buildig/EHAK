@@ -12,7 +12,7 @@ Eelvaade / Preview: https://buildig.com/EHAK
 - OKOOD - omavalitsuse kood / Municipality ID
 - ANIMI - asustusüksuse nimi / Settlements name
 - AKOOD - asustusüksuse kood / Settlement ID
-- TYYP - [asustusüksuse tüüp / Settlement type](/csv/asustusyksus_tyyp.csv)
+- TYYP - [asustusüksuse tüüp / Settlement type](/asustusyksus_tyyp.csv)
 - AREA - pindala , m2 / area in square meters, [added](https://github.com/buildig/EHAK/issues/33) by _buildig_ with `mapshaper -each 'AREA=this.originalArea'`
 
 ## Workflow
