@@ -19,9 +19,11 @@ Eelvaade / Preview: https://buildig.com/EHAK
 
 Download shapefiles from [Maa-amet](http://geoportaal.maaamet.ee/eng/Maps-and-Data/Administrative-and-Settlement-Division-p312.html) and transform to json and csv format (requires [mapshaper](https://www.npmjs.com/package/mapshaper/tutorial)):
 ```
-php -r "readfile('https://raw.githubusercontent.com/buildig/EHAK/master/workflow.sh');" > workflow.sh
-chmod a+x workflow.sh
-./workflow.sh
+git clone git@github.com:buildig/EHAK.git &&
+cd EHAK &&
+chmod a+x workflow.sh &&
+./workflow.sh &&
+git push origin master
 ```
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
 
