@@ -24,7 +24,7 @@ cd EHAK &&
 chmod a+x workflow.sh &&
 ./workflow.sh
 
-git checkout BRANCHNAME
+git checkout -b BRANCHNAME
 git push origin BRANCHNAME
 ```
 Note! The use of administrative and settlement units data is not restricted but the reference to the data source (i.e. Estonian Land Board) and validity date (e.g. 26.01.2012) must be made!
