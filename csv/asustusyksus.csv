@@ -2479,7 +2479,7 @@ Obja küla,5585,8,Vinni vald,0901,Lääne-Viru maakond,0060,9161064.261298738
 Oblu küla,5588,8,Rapla vald,0668,Rapla maakond,0071,6263758.391549821
 Odalätsi küla,5592,8,Saaremaa vald,0714,Saare maakond,0074,5543298.5565501815
 Odiste küla,5595,8,Viljandi vald,0899,Viljandi maakond,0084,16962923.859699555
-Odivere küla,5598,8,Mustvee vald,0486,Jõgeva maakond,0050,11186326.344349952
+Odivere küla,5598,8,Mustvee vald,0486,Jõgeva maakond,0050,11174457.978350034
 Odulemma küla,5601,8,Saue vald,0726,Harju maakond,0037,16879671.04790059
 Oe küla,5605,8,Antsla vald,0142,Võru maakond,0087,11529576.544849386
 Oela küla,5608,8,Rapla vald,0668,Rapla maakond,0071,3241642.539899984
@@ -3275,7 +3275,7 @@ Rumpo küla,7124,8,Vormsi vald,0907,Lääne maakond,0056,4263434.176239753
 Rupsi küla,7127,8,Peipsiääre vald,0586,Tartu maakond,0079,9005086.114899933
 Rusa küla,7125,8,Rõuge vald,0698,Võru maakond,0087,1452995.279699935
 Rusima küla,7128,8,Võru vald,0917,Võru maakond,0087,1320380.3239500194
-Ruskavere küla,7130,8,Mustvee vald,0486,Jõgeva maakond,0050,16105179.498349758
+Ruskavere küla,7130,8,Mustvee vald,0486,Jõgeva maakond,0050,16097556.479649728
 Russalu küla,7132,8,Märjamaa vald,0503,Rapla maakond,0071,18225692.15834981
 Rutikvere küla,7135,8,Järva vald,0255,Järva maakond,0052,10612227.648299573
 Rutja küla,7138,8,Haljala vald,0191,Lääne-Viru maakond,0060,9310348.01556297
@@ -3687,7 +3687,7 @@ Sälliksaare küla,7921,8,Mustvee vald,0486,Jõgeva maakond,0050,3708160.8874500
 Sälliku küla,7924,8,Alutaguse vald,0130,Ida-Viru maakond,0045,24681994.6406016
 Sämi küla,7927,8,Rakvere vald,0661,Lääne-Viru maakond,0060,5211731.13700007
 Sämi-Tagaküla,7925,8,Rakvere vald,0661,Lääne-Viru maakond,0060,6392241.422700177
-Sänna / Sännä küla,7930,8,Rõuge vald,0698,Võru maakond,0087,8982794.976700481
+Sänna küla / Sännä,7930,8,Rõuge vald,0698,Võru maakond,0087,8982794.976700481
 Säpina küla,7928,8,Setomaa vald,0732,Võru maakond,0087,3928384.397999681
 Säre küla,7933,8,Antsla vald,0142,Võru maakond,0087,15489339.400299823
 Särevere alevik,7935,7,Türi vald,0834,Järva maakond,0052,5046028.117300685
@@ -3820,7 +3820,7 @@ Tapiku küla,8141,8,Põltsamaa vald,0618,Jõgeva maakond,0050,21985003.426949896
 Tapupere küla,8139,8,Rapla vald,0668,Rapla maakond,0071,2564507.937749436
 Tapurla küla,8144,8,Kuusalu vald,0353,Harju maakond,0037,3494205.403653587
 Tarakuse küla,8147,8,Alutaguse vald,0130,Ida-Viru maakond,0045,6389852.227199527
-Tarakvere küla,8149,8,Mustvee vald,0486,Jõgeva maakond,0050,31185849.957350172
+Tarakvere küla,8149,8,Mustvee vald,0486,Jõgeva maakond,0050,31190805.39465011
 Tarbja küla,8152,8,Paide linn,0567,Järva maakond,0052,14334279.92844986
 Tareste küla,8150,8,Hiiumaa vald,0205,Hiiu maakond,0039,15734171.772950158
 Tareste küla,8153,8,Saaremaa vald,0714,Saare maakond,0074,443926.74624988565
@@ -4327,7 +4327,7 @@ Vaskjala küla,9108,8,Rae vald,0653,Harju maakond,0037,7333578.1963502085
 Vasknarva küla,9111,8,Alutaguse vald,0130,Ida-Viru maakond,0045,17384874.27571038
 Vaskrääma küla,9113,8,Pärnu linn,0624,Pärnu maakond,0068,13738802.416499112
 Vasla küla,9112,8,Setomaa vald,0732,Võru maakond,0087,1646474.9621496696
-Vassevere küla,9116,8,Mustvee vald,0486,Jõgeva maakond,0050,4149482.234999913
+Vassevere küla,9116,8,Mustvee vald,0486,Jõgeva maakond,0050,4149274.059249959
 Vassivere küla,9118,8,Vinni vald,0901,Lääne-Viru maakond,0060,4229900.684400555
 Vasta küla,9121,8,Viru-Nigula vald,0903,Lääne-Viru maakond,0060,3296222.6561500235
 Vastaba küla,9134,8,Lääneranna vald,0430,Pärnu maakond,0068,27335296.562300272
@@ -4357,7 +4357,7 @@ Veere küla,9171,8,Saaremaa vald,0714,Saare maakond,0074,3449007.786650222
 Veeremäe küla,9173,8,Saaremaa vald,0714,Saare maakond,0074,3039698.366752451
 Veeriku küla,9172,8,Saaremaa vald,0714,Saare maakond,0074,5296010.946149997
 Vehendi küla,9178,8,Elva vald,0171,Tartu maakond,0079,12545934.651984852
-Veia küla,9181,8,Mustvee vald,0486,Jõgeva maakond,0050,12091129.525649952
+Veia küla,9181,8,Mustvee vald,0486,Jõgeva maakond,0050,12105873.648799937
 Veibri küla,9183,8,Luunja vald,0432,Tartu maakond,0079,2335477.627949886
 Veisjärve küla,9186,8,Viljandi vald,0899,Viljandi maakond,0084,19141560.651850093
 Velise küla,9189,8,Märjamaa vald,0503,Rapla maakond,0071,2016411.9534000373
