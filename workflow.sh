@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
-
-mkdir tmp && 
+rm -Rf geojson &&
+rm -Rf topojson &&
+rm -Rf csv &&
+rm -Rf tmp &&
+mkdir tmp &&
 cd tmp &&
-curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/maakond_shp.zip" &&
+curl -O "https://geoportaal.maaamet.ee/docs/haldus_asustus/maakond_shp.zip" &&
 mv maakond_shp.zip maakond.zip &&
-curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/omavalitsus_shp.zip" &&
+curl -O "https://geoportaal.maaamet.ee/docs/haldus_asustus/omavalitsus_shp.zip" &&
 mv omavalitsus_shp.zip omavalitsus.zip &&
-curl -O "http://geoportaal.maaamet.ee/docs/haldus_asustus/asustusyksus_shp.zip" &&
+curl -O "https://geoportaal.maaamet.ee/docs/haldus_asustus/asustusyksus_shp.zip" &&
 mv asustusyksus_shp.zip asustusyksus.zip
 // http://stackoverflow.com/a/25433574
 for zip in *.zip; do
@@ -39,10 +42,10 @@ mapshaper -i omavalitsus.shp -each 'AREA=this.originalArea' -sort 'ONIMI' -o csv
 mapshaper -i asustusyksus.shp -each 'AREA=this.originalArea' -sort 'ANIMI' -o csv format=csv &&
 mapshaper -i maakond.shp -dissolve -each 'AREA=this.originalArea' -o csv/estonia.csv format=csv &&
 cd .. &&
-rm -Rf geojson && 
+rm -Rf geojson &&
 mv tmp/geojson geojson &&
-rm -Rf topojson && 
+rm -Rf topojson &&
 mv tmp/topojson topojson &&
-rm -Rf csv && 
+rm -Rf csv &&
 mv tmp/csv csv &&
 rm -Rf tmp
