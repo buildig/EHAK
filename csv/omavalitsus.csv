@@ -2,7 +2,7 @@ ONIMI,OKOOD,MNIMI,MKOOD,TYYP,AREA
 Alutaguse vald,0130,Ida-Viru maakond,0045,1,1458607269.290905
 Anija vald,0141,Harju maakond,0037,1,532973670.3428485
 Antsla vald,0142,Võru maakond,0087,1,410524751.6828504
-Elva vald,0171,Tartu maakond,0079,1,732269832.0422223
+Elva vald,0171,Tartu maakond,0079,1,732269768.4970732
 Haapsalu linn,0184,Lääne maakond,0056,4,271822949.047045
 Haljala vald,0191,Lääne-Viru maakond,0060,1,549093718.724472
 Harku vald,0198,Harju maakond,0037,1,159020106.34391662
@@ -13,7 +13,7 @@ Jõelähtme vald,0245,Harju maakond,0037,1,211405560.68826926
 Jõgeva vald,0247,Jõgeva maakond,0050,1,1039662265.0815506
 Jõhvi vald,0251,Ida-Viru maakond,0045,1,123929416.55924992
 Kadrina vald,0272,Lääne-Viru maakond,0060,1,353921939.1151498
-Kambja vald,0283,Tartu maakond,0079,1,275125919.3161511
+Kambja vald,0283,Tartu maakond,0079,1,275125620.41215116
 Kanepi vald,0284,Põlva maakond,0064,1,524677755.9593505
 Kastre vald,0291,Tartu maakond,0079,1,492739481.85745263
 Kehtna vald,0293,Rapla maakond,0071,1,511966058.2328502
@@ -32,13 +32,13 @@ Lääneranna vald,0430,Pärnu maakond,0068,1,1362665676.3014834
 Lüganuse vald,0442,Ida-Viru maakond,0045,1,598626888.627648
 Maardu linn,0446,Harju maakond,0037,4,23441394.13667627
 Muhu vald,0478,Saare maakond,0074,1,207913689.34170672
-Mulgi vald,0480,Viljandi maakond,0084,1,880726591.7799541
+Mulgi vald,0480,Viljandi maakond,0084,1,880726028.9060041
 Mustvee vald,0486,Jõgeva maakond,0050,1,615642276.7914835
 Märjamaa vald,0503,Rapla maakond,0071,1,1163524990.1475039
 Narva linn,0511,Ida-Viru maakond,0045,4,68720367.20441353
 Narva-Jõesuu linn,0514,Ida-Viru maakond,0045,4,404663876.38820016
-Nõo vald,0528,Tartu maakond,0079,1,169106836.1275495
-Otepää vald,0557,Valga maakond,0081,1,520212412.2018507
+Nõo vald,0528,Tartu maakond,0079,1,169109376.06714886
+Otepää vald,0557,Valga maakond,0081,1,520210274.84940094
 Paide linn,0567,Järva maakond,0052,4,442872235.181052
 Peipsiääre vald,0586,Tartu maakond,0079,1,652162707.5712305
 Pärnu linn,0624,Pärnu maakond,0068,4,857936187.125959
@@ -53,8 +53,8 @@ Rakvere vald,0661,Lääne-Viru maakond,0060,1,294662105.23740095
 Rapla vald,0668,Rapla maakond,0071,1,859456868.2913511
 Ruhnu vald,0689,Saare maakond,0074,1,11895746.058823694
 Räpina vald,0708,Põlva maakond,0064,1,592774474.7983019
-Rõuge vald,0698,Võru maakond,0087,1,933216490.2336936
-Saarde vald,0712,Pärnu maakond,0068,1,1064798167.4238504
+Rõuge vald,0698,Võru maakond,0087,1,933221653.9115934
+Saarde vald,0712,Pärnu maakond,0068,1,1064798730.2978007
 Saaremaa vald,0714,Saare maakond,0074,1,2717837620.682283
 Saku vald,0718,Harju maakond,0037,1,170448826.2093485
 Saue vald,0726,Harju maakond,0037,1,627606834.9448507
@@ -62,7 +62,7 @@ Setomaa vald,0732,Võru maakond,0087,1,463095123.8437826
 Sillamäe linn,0735,Ida-Viru maakond,0045,4,11907094.852075677
 Tallinn,0784,Harju maakond,0037,4,159370922.06541863
 Tapa vald,0792,Lääne-Viru maakond,0060,1,479664371.3719987
-Tartu linn,0793,Tartu maakond,0079,4,153991993.28289962
+Tartu linn,0793,Tartu maakond,0079,4,153991953.1448996
 Tartu vald,0796,Tartu maakond,0079,1,742115942.0333703
 Toila vald,0803,Ida-Viru maakond,0045,1,265780540.24150762
 Tori vald,0809,Pärnu maakond,0068,1,611127042.9671009
@@ -77,4 +77,4 @@ Viru-Nigula vald,0903,Lääne-Viru maakond,0060,1,312235757.13725954
 Vormsi vald,0907,Lääne maakond,0056,1,94981222.47607678
 Väike-Maarja vald,0928,Lääne-Viru maakond,0060,1,682460727.2010026
 Võru linn,0919,Võru maakond,0087,4,14009922.849299923
-Võru vald,0917,Võru maakond,0087,1,952293522.7642996
+Võru vald,0917,Võru maakond,0087,1,952288359.0863996
