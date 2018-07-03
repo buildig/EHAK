@@ -2,7 +2,7 @@ ONIMI,OKOOD,MNIMI,MKOOD,TYYP,AREA
 Alutaguse vald,0130,Ida-Viru maakond,0045,1,1458607269.290905
 Anija vald,0141,Harju maakond,0037,1,532973670.3428485
 Antsla vald,0142,Võru maakond,0087,1,410524751.6828504
-Elva vald,0171,Tartu maakond,0079,1,732269768.4970732
+Elva vald,0171,Tartu maakond,0079,1,732269381.7025465
 Haapsalu linn,0184,Lääne maakond,0056,4,271822949.047045
 Haljala vald,0191,Lääne-Viru maakond,0060,1,549093718.724472
 Harku vald,0198,Harju maakond,0037,1,159020106.34391662
@@ -35,9 +35,9 @@ Muhu vald,0478,Saare maakond,0074,1,207913689.34170672
 Mulgi vald,0480,Viljandi maakond,0084,1,880726028.9060041
 Mustvee vald,0486,Jõgeva maakond,0050,1,615642276.7914835
 Märjamaa vald,0503,Rapla maakond,0071,1,1163524990.1475039
-Narva linn,0511,Ida-Viru maakond,0045,4,68720367.20441353
-Narva-Jõesuu linn,0514,Ida-Viru maakond,0045,4,404663876.38820016
-Nõo vald,0528,Tartu maakond,0079,1,169109376.06714886
+Narva linn,0511,Ida-Viru maakond,0045,4,68720729.65821385
+Narva-Jõesuu linn,0514,Ida-Viru maakond,0045,4,404663513.9343998
+Nõo vald,0528,Tartu maakond,0079,1,169110540.3610991
 Otepää vald,0557,Valga maakond,0081,1,520210274.84940094
 Paide linn,0567,Järva maakond,0052,4,442872235.181052
 Peipsiääre vald,0586,Tartu maakond,0079,1,652162707.5712305
@@ -63,7 +63,7 @@ Sillamäe linn,0735,Ida-Viru maakond,0045,4,11907094.852075677
 Tallinn,0784,Harju maakond,0037,4,159370922.06541863
 Tapa vald,0792,Lääne-Viru maakond,0060,1,479664371.3719987
 Tartu linn,0793,Tartu maakond,0079,4,153991953.1448996
-Tartu vald,0796,Tartu maakond,0079,1,742115942.0333703
+Tartu vald,0796,Tartu maakond,0079,1,742118101.8830702
 Toila vald,0803,Ida-Viru maakond,0045,1,265780540.24150762
 Tori vald,0809,Pärnu maakond,0068,1,611127042.9671009
 Tõrva vald,0824,Valga maakond,0081,1,647220271.0006464
@@ -71,7 +71,7 @@ Türi vald,0834,Järva maakond,0052,1,1008456538.1334019
 Valga vald,0855,Valga maakond,0081,1,749659565.7141492
 Viimsi vald,0890,Harju maakond,0037,1,73260649.37036192
 Viljandi linn,0897,Viljandi maakond,0084,4,14665935.839299783
-Viljandi vald,0899,Viljandi maakond,0084,1,1371641818.4704556
+Viljandi vald,0899,Viljandi maakond,0084,1,1371638881.121325
 Vinni vald,0901,Lääne-Viru maakond,0060,1,1012935255.6394514
 Viru-Nigula vald,0903,Lääne-Viru maakond,0060,1,312235757.13725954
 Vormsi vald,0907,Lääne maakond,0056,1,94981222.47607678
